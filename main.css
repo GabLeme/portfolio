@@ -40,11 +40,13 @@ body {
 .background-white {
   background-color: #fff; }
 
-.background-dark, header, footer, #skills, .feature-banner {
+.background-dark, header, #skills, .feature-banner {
   background-color: #811B25; }
 
 .background-orange {
   background-color: #e87722; }
+
+  
 
 header, footer {
   color: white; }
@@ -55,6 +57,11 @@ header, footer {
 
 .avatar {
   border-radius:100%;
+}
+
+img {
+  width: 100%;
+  height: 100%;
 }
 
 .hidden {
@@ -131,7 +138,7 @@ header {
 footer {
   padding-bottom: 80px; }
   footer p {
-    color: #e0e0e0;
+    color: #000;
     line-height: 20px; }
   footer span {
     font-size: 10pt; }
