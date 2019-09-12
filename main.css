@@ -25,8 +25,10 @@ h3 {
   font-weight: 600; }
 
 p {
-  font-weight: 300;
-  color: #5c5c5c; }
+  font-weight: 200;
+  color: #5c5c5c; 
+  font-size: 16px;
+}
 
 body {
   background-color: #fff;
@@ -39,7 +41,7 @@ body {
   background-color: #fff; }
 
 .background-dark, header, footer, #skills, .feature-banner {
-  background-color: #330e38; }
+  background-color: #811B25; }
 
 .background-orange {
   background-color: #e87722; }
@@ -241,8 +243,8 @@ footer {
   color: white; }
   #skills .dev-tech-box span {
     font-size: smaller;
-    font-weight: 300;
-    color: #7e7e7e; }
+    font-weight: 500;
+    color:#FDCB59; }
   #skills .dev-tech-box p {
     color: #ffffff; }
 
